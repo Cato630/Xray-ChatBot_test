@@ -296,6 +296,18 @@ Ask several related questions, click Clear Conversation, and then ask the chatbo
 
 Expected result: The earlier conversation should no longer be available.
 
+
+Source Reference
+
+Each educational response includes links selected from a curated source
+library. The source selection is handled by Python using keywords from the
+current conversation. The language model does not generate the URLs.
+
+Sources include RadiologyInfo.org, MedlinePlus, the CDC, Johns Hopkins
+Medicine, and the NCBI Bookshelf. The links are provided for further reading
+and should not be treated as proof that every part of the model's response is
+correct.
+
 How the Application Works
 
 The user enters a question in the Gradio interface.
