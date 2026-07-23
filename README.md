@@ -420,5 +420,6 @@ MedlinePlus
 
 Author
 
-Caleb TurnerMedical AI course projectJuly 2026
+Caleb Turner
+July2026
 
